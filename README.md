@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **C,C++,JAVA,MERN,PYTHON**
 
+- 📫 How to reach me **sanjaimadhu8220@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mingo_madhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mingo_madhu" height="30" width="40" /></a>
@@ -17,3 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaimadhu&show_icons=true&locale=en" alt="sanjaimadhu" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaimadhu&" alt="sanjaimadhu" /></p>
